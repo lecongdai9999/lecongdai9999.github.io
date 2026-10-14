@@ -1,0 +1,3 @@
+Terms of service, also known as terms of use and terms and conditions,[note 1] are the legal agreements between service providers and service consumers. The person must agree to abide by the terms of service in order to use the offered service. Terms of service can also be merely a disclaimer, especially regarding the use of websites. Vague language and lengthy sentences used in these terms of service have caused concerns about customer privacy and raised public awareness in many ways.
+
+A terms of service agreement is mainly used for legal purposes by companies which provide software or services, such as web browsers, e-commerce, web search engines, social media, and transport services.
