@@ -1,90 +1,57 @@
 Privacy Policy
-UFO-Production team built the Bombing Bird app as a Free app. This SERVICE is provided by UFO-Production team at no cost and is intended for use as is.
+Effective Date: October 15, 2026
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Application Name: UFO Production Team
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Contact Email: lecongdai9999@gmail.com
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Bombing Bird unless otherwise defined in this Privacy Policy.
+1. Introduction
+This Privacy Policy ("Policy") governs the collection, use, and protection of personal data and content in connection with the internal video management application provided by UFO Production Team ("Service").
 
+The Service is an internal platform provided exclusively for authorized members of UFO Production Team. Access is strictly limited to authorized personnel who have been granted permission. By accessing or using the Service, you acknowledge and agree to the practices outlined in this Policy, as well as Google’s Privacy Policy and YouTube’s Terms of Service.
 
+2. Information We Collect
+To provide and maintain the Service, we may collect and process the following information:
 
-Information Collection and Use
+Account Credentials: Email address, username, and authentication tokens required to verify authorized access.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to:
+Uploaded Video Content & Metadata: Video files, titles, descriptions, tags, and thumbnails submitted through the platform.
 
-Location: Precise Location and Coarse Location, 
-User Content: Customer Support, 
-Identifiers: Device ID
-Usage Data: Product Interaction, Advertising Data
-Diagnostics: Crash Data, Performance Data, Other Diagnostic Data
-Other Data: Other Data Types
-The information that I request will be retained on your device and is not collected by me in any way.
+YouTube API Access Data: When authorized via Google OAuth, the Service interacts with your YouTube account solely to upload and manage videos on your behalf.
 
+Technical Usage Logs: System log data, IP addresses, timestamp logs, and error reporting to ensure system stability and security.
 
+3. How We Use Information
+We use the collected information strictly for the following operational purposes:
 
-The app does use third party services that may collect information used to identify you.
+Authenticating authorized team members and securing access.
 
-Link to privacy policy of third party service providers used by the app (company)
+Facilitating video uploads, status tracking, and publishing workflows directly to YouTube.
 
-Unity
-Yodo1
-Appodeal
-Log Data
+Monitoring application performance, debugging issues, and enforcing platform compliance.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+Preventing unauthorized usage or security breaches.
 
+We do not sell, rent, or commercialize any personal data or uploaded media content.
 
+4. Third-Party Data Sharing & Google API Disclosure
+Google & YouTube Services: The Service uses YouTube API Services to perform video uploads. Video data submitted through the Service is processed and stored on YouTube’s infrastructure in accordance with Google's Privacy Policy (http://www.google.com/policies/privacy).
 
-Cookies
+Legal Compliance: We do not disclose user data to third parties except when required by law or to protect the security and rights of UFO Production Team.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+5. Data Retention & Revocation
+The Service retains authentication credentials and system operational logs only as long as necessary to support team workflows.
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Uploaded videos reside on YouTube’s servers and follow YouTube's retention and deletion policies.
 
+You can revoke the application's access to your Google/YouTube account at any time via the Google Security Settings page.
 
+6. Security Measures
+UFO Production Team implements reasonable technical and organizational safeguards (including encryption in transit, strict access control, and OAuth token protection) to protect user data from unauthorized access, loss, or misuse.
 
-Service Providers
+7. Contact Us
+For questions regarding this Privacy Policy or data privacy inquiries, please reach out to us at:
 
-I may employ third-party companies and individuals due to the following reasons:
+Contact Email: lecongdai9999@gmail.com
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
-
-
-Security
-
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
-
-
-
-Links to Other Sites
-
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
-
-
-Children’s Privacy
-
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
-
-
-
-Changes to This Privacy Policy
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2021-06-13
-
-
-
-Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact UFO-Production team at lecongdai9999@gmail.com.
-
-
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+Publisher: UFO Production Team
